@@ -1,6 +1,8 @@
-## Desenvolvedora no último ano da faculdade construindo uma base sólida em SRE. Gosto de resolver a bagunça que roda por baixo dos panos. Meu foco atual é dominar Linux, scripts em Python e ferramentas de Cloud para trocar trabalho operacional repetitivo por infraestrutura como código.
+## Oi eu sou a Katheleen!
 
-### 🛠️ Arsenal Tecnológico
+#### Desenvolvedora no último ano da faculdade construindo uma base sólida em SRE. Gosto de resolver a bagunça que roda por baixo dos panos. Meu foco atual é dominar Linux, scripts em Python e ferramentas de Cloud para trocar trabalho operacional repetitivo por infraestrutura como código.
+
+### 🛠️ tecnologias:
 
 **Fundamentos & Automação**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
